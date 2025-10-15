@@ -73,7 +73,7 @@ pip install beautifulsoup4
 
 1. Visit the GRASS GIS manuals: [https://grass.osgeo.org/learn/manuals/](https://grass.osgeo.org/learn/manuals/)
 2. Download the latest documentation artifact. At the time of writing, the archive was available at:<br>
-   `https://github.com/OSGeo/grass/actions/runs/18477726098/artifacts/4259709904`<br>
+   `https://github.com/OSGeo/grass/actions/runs/18477726098/artifacts/4259709904`<br> (GRASS GIS 8.5 DEV)
    You must be logged into GitHub to access the download.
 3. Extract the downloaded ZIP archive.
 4. Copy `generate_grass_dataset.py` into the extracted documentation folder so it sits alongside `grass_logo.txt` (one directory above the `addons` and `assets` folders).
